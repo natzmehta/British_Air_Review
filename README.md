@@ -50,6 +50,7 @@ Main Tables -
 Before beginning the analysis, several quality control measures were implemented, details can be found in the 'ba_reviews1' Excel file
 
 
+
 **Executive Summary**
 
 Overview of Findings:
@@ -59,6 +60,7 @@ After peaking in 2020, the company’s overall rating has since seen a drastic d
 While we did a decline in rating post 2020, which can be attributed to the pandemic time; we would ideally expect normalcy in ratings around 2022 & entire 2023.
 
 Below is the overview page from the Tableau dashboard with a deeper analysis included in the report.
+
 
 
 Insights Deep Dive:
@@ -86,6 +88,7 @@ Product Experience:
 * The average ratings for seat comfort & food & beverages seems inline with the previous years suggesting the airline has maintained its quality in these two categories
 
 * The average entertainment rating has seen a drastic drop YoY starting Q1 2017 . Te drop seems mainly across the Airbus fleet services with most customers rating a -1. This confirms the hypothesis that -1 isn’t a rating but it relates to the unavailability of an onboard entertainment system since the Airbus services - A319, A320, A321 are short range flights as compared to a Boeing. 
+
 
 
 **Recommendations**
