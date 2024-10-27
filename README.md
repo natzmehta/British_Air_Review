@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
   
 The analysis is based on customer review data from March 2016 to October 2023, focusing on region & aircraft fleet.
 
-
+<br>
 **Data Structure Overview**
 
 British Airways' review database structure consists of the following key tables with a total of 1323 customer reviews: 
