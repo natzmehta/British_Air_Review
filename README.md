@@ -77,7 +77,9 @@ Core Service Trends:
 
 * Despite the downward trend in overall rating, the average ground service rating saw a significant upside for 12 consecutive months beginning 3Q23 majorly due to the aircraft A321 in the Americas
 
-![image](https://github.com/user-attachments/assets/d3bb2146-9d96-4556-8248-e4b5011c469f)
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/d3bb2146-9d96-4556-8248-e4b5011c469f)" alt="Description" width="300"/>
+</p>
 
 <br><br>
 
