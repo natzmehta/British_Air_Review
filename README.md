@@ -62,42 +62,51 @@ While we did a decline in rating post 2020, which can be attributed to the pande
 
 Below is the overview page from the Tableau dashboard with a deeper analysis included in the report.
 
+![image](https://github.com/user-attachments/assets/72558aa7-bdc2-4c7b-bf27-df0ffaed5a40)
 
+
+<br><br>
 
 Insights Deep Dive:
 
 Core Service Trends:
 
-* If we look at the core service KPIs - overall rating, cabin service, and ground service we see that the company reached the highest overall rating in 2020 (18% growth YoY). With the COVID-19 pandemic there was a significant shift in consumer behavior with more focus on health and protection protocols and increase demand for flexibility which resulted in a slight boost in cabin service ratings (6%)
+* If we look at the core service KPIs - overall rating, cabin service, and ground service we see that the company reached the highest overall rating in 2020 (18% growth YoY). With the COVID-19 pandemic, there was a significant shift in consumer behavior with more focus on health and protection protocols and increased demand for flexibility which resulted in a slight boost in cabin service ratings (6%)
 
-* The overall rating hit an all time low of 1.0 in December 2020 and has recovered slightly since. However, the rating still remains % lower compared to previous years. 
+* The overall rating hit an all-time low of 1.0 in December 2020 and has recovered slightly since. However, the rating remains 27% lower compared to previous years. 
 
-* Despite the downward trend in overall rating, the average ground service rating seeing a significant upside for 12 consecutive months beginning 3Q23 majorly due the aircraft A321 in the Americas
+* Despite the downward trend in overall rating, the average ground service rating saw a significant upside for 12 consecutive months beginning 3Q23 majorly due to the aircraft A321 in the Americas
 
+![image](https://github.com/user-attachments/assets/d3bb2146-9d96-4556-8248-e4b5011c469f)
+
+<br><br>
 
 Fleet Performance:
 
-* In terms of region, the Boeing (avg. rating: 2.5)  aircraft have outperformed the Airbus in terms of overall rating across Europe while we see a reverse trend in North America with airbus having an average rating of 3.1
+* In terms of region, the Boeing (avg. rating: 2.5)  aircraft have outperformed Airbus in terms of overall rating across Europe while we see a reverse trend in North America with Airbus having an average rating of 3.1
 
 * In Europe, Boeing 747 has the highest overall rating which can be associated with cabin service & ground service
 
-* While in the Americas, A319 (avg rating: 4.5) outperforms all other fleet services due to a higher average rating to cabin service & value for money
+* While in the Americas, A319 (avg rating: 4.5) outperforms all other fleet services due to a higher average rating for cabin service & value for money
 
+![image](https://github.com/user-attachments/assets/5ce6e0b0-b398-4b4b-a068-352bbac5d0c6)
+
+<br><br>
 
 Product Experience:
 
-* The average ratings for seat comfort & food & beverages seems inline with the previous years suggesting the airline has maintained its quality in these two categories
+* The average ratings for seat comfort & food & beverages seem inline with the previous years suggesting the airline has maintained its quality in these two categories
 
-* The average entertainment rating has seen a drastic drop YoY starting Q1 2017 . Te drop seems mainly across the Airbus fleet services with most customers rating a -1. This confirms the hypothesis that -1 isn’t a rating but it relates to the unavailability of an onboard entertainment system since the Airbus services - A319, A320, A321 are short range flights as compared to a Boeing. 
+* The average entertainment rating has seen a drastic drop YoY starting Q1 2017. Te drop seems mainly across the Airbus fleet services with most customers rating a -1. This confirms the hypothesis that -1 isn’t a rating but it relates to the unavailability of an onboard entertainment system since the Airbus services - A319, A320, and A321 are short-range flights as compared to a Boeing. 
 
 
 <br><be>
 
 **Recommendations**
 
-* Even though Airbus are short haul flights, it’s important to consider they make up of a majority of revenue for North America. Therefore, we should look at other alternatives of entertainment for the traveler like partnering with a mobile network for free wifi or magazines
+* Even though Airbus are short-haul flights, it’s important to consider they make up a majority of revenue for North America. Therefore, we should look at other alternatives of entertainment for the traveler like partnering with a mobile network for free wifi or magazines
 
-* Ground Service for Airbus have historically outperformed Boeing, we should do a deep dive analysis into ground service for major markets of the Airbus including North America and utilize and implement similar ideas to the ground service across Europe through training programs
+* Ground Service for Airbus have historically outperformed Boeing, we should do a deep dive analysis into ground service for major markets of Airbus including North America and utilize and implement similar ideas to the ground service across Europe through training programs
 
 * Though Europe & North America make up for most of the revenue by region, considering expanding fleet services into more promising markets like Asia and South America
 
